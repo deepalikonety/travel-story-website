@@ -23,7 +23,7 @@ Welcome to **Travel Story**, a web platform where travelers can document, share,
 
 
 ## 📸 Screenshots  
-
+(/Welcome_page.jpg)
 
 ## 🔧 Setup Instructions  
 

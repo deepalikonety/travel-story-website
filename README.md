@@ -24,6 +24,8 @@ Welcome to **Travel Story**, a web platform where travelers can document, share,
 
 ## 📸 Screenshots  
 ![Dashboard Preview](./Welcome_page.jpg)
+![Dashboard Preview](./Login_page.jpg)
+
 
 ## 🔧 Setup Instructions  
 

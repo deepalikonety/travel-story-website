@@ -19,7 +19,7 @@ Welcome to **Travel Story**, a web platform where travelers can document, share,
 - **Frontend:** React.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB    
-- **Authentication:** JWT (if implemented)  
+- **Authentication:** JWT  
 
 
 ## 📸 Screenshots  
